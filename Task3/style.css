@@ -1,0 +1,70 @@
+*{
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    text-shadow: white 0 0 10px;
+}
+
+body{
+    width: 100vm;
+    height: 100ch;
+}
+
+h1{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-align: center;
+}
+
+header{
+    margin: auto;
+    width: 90%;
+    height: 15%;
+    background-color: #0142cf;
+    border-radius: 0 0 50px 50px;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+
+.menu{
+    position: fixed;
+    background-color: rgb(1, 66, 207, 0.5);
+    width: 10%;
+    height: 600px;
+    border-radius: 0 50px 50px 0;
+    margin-top: 50px;
+}
+
+.content{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+ol{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+h2{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    margin: 44% 0% -30% 10%;
+}
+
+footer{
+    background-color: #0142cf;
+    position: absolute;
+    height: 15%;
+    width: 90%;
+    border-radius: 50px 50px 0 0;
+    bottom: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.author{
+    text-align: center;
+    padding-top: 56px;
+}
